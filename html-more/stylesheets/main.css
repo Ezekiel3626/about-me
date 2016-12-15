@@ -1,0 +1,40 @@
+body {
+	background-color: purple;
+	border: 100px solid black; 
+	margin: 10;
+	font-family: Helvetica, sans-serif;
+	font-size: 16px;
+	width: 100%;
+	width: 800px;
+}
+
+h1 {
+	font-size: 16px;
+}
+
+
+
+ul.nav-main	{
+	margin: 10;
+	padding: 10;
+	list-style-type: 1;
+}
+
+ul.nav-main li {
+	display: inline;
+}
+
+/* ALL buttons begin with .btn */
+.btn-default {
+	padding: 10px;
+	border: 1px solid blue;
+	border-width: 0px
+	border-radius: 4px;
+	background-color: #ffffff
+}
+
+img.img-right {float: right;
+	margin-left: 0px;
+}
+
+
