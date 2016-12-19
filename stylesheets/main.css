@@ -13,12 +13,14 @@ h1 {
 }
 
 div.col-sm1 {border: 10px;
-padding: 10px;}
+padding: 10px;
+margin: 25px;}
 
 ul.nav-main	{
 	margin: 10;
 	padding: 10;
 	list-style-type: 1;
+	text-align: center;
 }
 
 ul.nav-main li {
@@ -44,7 +46,7 @@ img.img-right {float: right;
 	body {background-color: black;
 	}
 
-img.img-left {float: left;
+img.img-left {float: right;
 border: 10px;
 padding: 2px;}
 
@@ -71,3 +73,4 @@ h2.volunteer {text-align: center;
 	border: 3px solid black;
 }
 
+ul.interests {border: 5px;}
