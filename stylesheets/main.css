@@ -60,17 +60,9 @@ img.center-block {
 
 h1.name {text-align: center;}
 
-h2.education {text-align: center;
+h2 {text-align: center;
 	border: 3px solid black;
 	margin: 20px;
 }
 
-h2.Profession {text-align: center;
-	border: 3px solid black;
-}
 
-h2.volunteer {text-align: center;
-	border: 3px solid black;
-}
-
-ul.interests {border: 5px;}
